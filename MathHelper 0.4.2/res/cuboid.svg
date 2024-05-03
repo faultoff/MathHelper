@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 9979.2 6511.99" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="TextBounds">
+      <rect height="983.219" transform="matrix(0.352734 -0 -0 0.352734 -2860.28 -1052.38)" width="481.513" x="8108.9" y="2983.49"/>
+    </clipPath>
+    <clipPath id="TextBounds_2">
+      <rect height="983.219" transform="matrix(0.352734 -0 -0 0.352734 -1427.03 -1993.35)" width="197.459" x="4045.63" y="5651.14"/>
+    </clipPath>
+    <clipPath id="TextBounds_3">
+      <rect height="983.219" transform="matrix(0.352734 -0 -0 0.352734 -3260 -1725)" width="622.709" x="9242.1" y="4890.38"/>
+    </clipPath>
+  </defs>
+  <clipPath id="ArtboardFrame">
+    <rect height="6511.99" width="9979.2" x="0" y="0"/>
+  </clipPath>
+  <g clip-path="url(#ArtboardFrame)" id="Layer_x0020_1">
+    <path d="M2038.37 51.03L9928.17 51.03L9928.17 4130.6" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="99.3628"/>
+    <path d="M2038.37 82.215L2038.37 4161.78L9928.17 4161.78" fill="none" opacity="1" stroke="#000000" stroke-dasharray="130.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="39.745"/>
+    <path d="M51.03 1516.72L2046.87 39.69" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="99.3628"/>
+    <path d="M7949.34 5601.96L9948.01 4122.09" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="99.3628"/>
+    <path d="M42.525 5635.98L2041.2 4156.11" fill="none" opacity="1" stroke="#000000" stroke-dasharray="130.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="39.745"/>
+    <text clip-path="url(#TextBounds)" fill="#000000" font-family="Arial" font-size="300" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 8108.9 2983.49)" x="0" y="0" style="white-space: pre;">
+<tspan textLength="166.846" x="0" y="272">h</tspan>
+</text>
+    <text clip-path="url(#TextBounds_2)" fill="#000000" font-family="Arial" font-size="300" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 4045.63 5651.14)" x="0" y="0" style="white-space: pre;">
+<tspan textLength="66.6504" x="0" y="272">l</tspan>
+</text>
+    <text clip-path="url(#TextBounds_3)" fill="#000000" font-family="Arial" font-size="300" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 9242.1 4890.38)" x="0" y="0" style="white-space: pre;">
+<tspan textLength="216.65" x="0" y="272">w</tspan>
+</text>
+    <path d="M7938 1536.57L9936.67 59.535" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="99.3628"/>
+    <path d="M51.03 1516.72L7940.84 1516.72L7940.84 1516.72L7940.84 5596.29L7940.84 5596.29L51.03 5596.29L51.03 5596.29L51.03 1516.72L51.03 1516.72Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="99.3628"/>
+  </g>
+</svg>

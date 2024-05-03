@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 8660.92 5080.32" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="TextBounds">
+      <rect height="1307.18" transform="matrix(0.352734 -0 -0 0.352734 -1365.84 44.0761)" width="639.182" x="3872.17" y="-124.956"/>
+    </clipPath>
+    <clipPath id="TextBounds_2">
+      <rect height="1307.18" transform="matrix(0.352734 -0 -0 0.352734 -7.10873 -875.962)" width="639.182" x="20.1533" y="2483.35"/>
+    </clipPath>
+  </defs>
+  <clipPath id="ArtboardFrame">
+    <rect height="5080.32" width="8660.92" x="0" y="0"/>
+  </clipPath>
+  <g clip-path="url(#ArtboardFrame)" id="Layer_x0020_1">
+    <path d="M1216.21 1434.51L7422.03 1434.51L7422.03 1434.51L7422.03 5046.3L7422.03 5046.3L1216.21 5046.3L1216.21 5046.3L1216.21 1434.51L1216.21 1434.51Z" fill="none" fill-rule="evenodd" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="69.1513"/>
+    <text transform="matrix(2.835 0 0 2.835 3872.17 -124.956)" style="font-family: Arial; font-size: 400px; white-space: pre; clip-path: url('#TextBounds');" x="0 0" y="0 362">
+b
+</text>
+    <text clip-path="url(#TextBounds_2)" fill="#000000" font-family="Arial" font-size="400" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 20.1533 2483.35)" x="0" y="0" style="white-space: pre;">
+<tspan textLength="222.461" x="0" y="362">a</tspan>
+</text>
+    <path d="M776.79 1460.03L929.88 1763.37L626.535 1763.37L776.79 1460.03ZM765.45 4788.31L765.45 1746.36L790.965 1746.36L790.965 4788.31L765.45 4788.31ZM776.79 5074.65L626.535 4771.31L929.88 4771.31L776.79 5074.65Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+    <path d="M1216.21 1020.6L1516.72 870.345L1516.72 1170.86L1216.21 1020.6ZM7138.53 1034.78L1502.55 1034.78L1502.55 1006.42L7138.53 1006.42L7138.53 1034.78ZM7424.86 1020.6L7121.52 1170.86L7121.52 870.345L7424.86 1020.6Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+    <path d="M1216.21 1434.51L1216.21 5046.3L7424.86 5046.3L7424.86 1434.51L1216.21 1434.51Z" fill="#ffebd6" fill-rule="evenodd" opacity="1" stroke="#009933" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="69.1513"/>
+  </g>
+</svg>
